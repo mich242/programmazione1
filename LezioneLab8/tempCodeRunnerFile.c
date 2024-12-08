@@ -1,0 +1,1 @@
+bool elem_div_riga(const int pRiga[COLS], const size_t c);
